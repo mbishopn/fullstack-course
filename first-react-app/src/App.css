@@ -40,3 +40,13 @@
 .read-the-docs {
   color: #888;
 }
+
+.item{
+  padding:2em;
+  border:3px solid #e1e1e1;
+  border-radius: 10%;
+}
+
+.CardContainer{
+  
+}
